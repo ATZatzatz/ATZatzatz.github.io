@@ -2,14 +2,14 @@
 title: ATZ BLOG
 SEOTitle: atz的博客 | ATZ BLOG
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1159700731@qq.com
 description: "Every failure is leading towards success."
-keyword: "atz, ATZ BLOY , atz的博客 , aitianzhuo, 艾天卓, iOS, Apple, iPhone"
+keyword: "atz"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
-# Sidebar settings
+# Sidebar settingss
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "小艾，加油！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
@@ -21,9 +21,9 @@ RSS: false
 weibo_username:     爱吃手指的atz
 zhihu_username:     爱吃手指的atz
 github_username:    ATZatzatz
-facebook_username:  
-jianshu_username:   
-#twitter_username:   
+facebook_username:
+jianshu_username:
+#twitter_username:
 
 
 
